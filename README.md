@@ -24,4 +24,4 @@ Lets you create an account, login, deposit, withdraw, view balance and see all a
 Work in progress: Authentication and Authorization
 
 ## License
-![MIT](LICENSE)
+[MIT](LICENSE)
